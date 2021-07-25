@@ -9,5 +9,8 @@ Below are demos of uploading files to Github:
 
 - [Github File Upload Demo](/GithubDemo/index.md)
 
+Below is a link to my Github sample repository
+-[Github Sample Repository0(https://github.com/fillpd/GithubDemoRepository)
+
 
 
