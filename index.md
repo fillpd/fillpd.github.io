@@ -3,7 +3,7 @@ title: Github Demo
 description: Daniel Filippelli
 ---
 
-![My Picture](/pics/)
+![Test Pic](/pics/WM.png)
 
 Below are demos of uploading files to Github:
 
