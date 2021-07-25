@@ -5,9 +5,9 @@ description: Daniel Filippelli
 
 ![Test Pic](/pics/WM.png)
 
-Below are demos of uploading files to Github:
+Below are samples of file uploads to Github:
 
-- [Github File Upload Demo](/GithubDemo/index.md)
+- [Github File Upload Sample](/GithubDemo/index.md)
 
 Below is a link to my Github sample repository
 -[Github Sample Repository](https://github.com/fillpd/GithubDemoRepository)
