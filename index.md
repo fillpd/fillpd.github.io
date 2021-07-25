@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: new website
+title: Github Demo
+description: Daniel Filippelli
 ---
 
 Below are demos of uploading files to Github:
